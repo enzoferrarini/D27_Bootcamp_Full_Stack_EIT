@@ -1,0 +1,902 @@
+[
+        {
+            "id": 0,
+            "title": "2 Fast 2 Furious",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMzExYjcyYWMtY2JkOC00NDUwLTg2OTgtMDI3MGY2OWQzMDE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2003",
+            "descFilm": "Former cop Brian O'Conner is called upon to bust a dangerous criminal and he recruits the help of a former childhood friend and street racer who has a chance to redeem himself.",
+            "imdb": "tt0322259"
+        },
+        {
+            "id": 1,
+            "title": "3-Iron",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTM1ODIwNzM5OV5BMl5BanBnXkFtZTcwNjk5MDkyMQ@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2004",
+            "descFilm": "A transient young man breaks into empty homes to partake of the vacationing res ents' lives for a few days.",
+            "imdb": "tt0423866"
+        },
+        {
+            "id": 2,
+            "title": "Advent",
+            "poster": "https://m.media-amazon.com/images/M/MV5BODY3NjE0YjYtZTliZS00OWMzLWEwZGQtNDgyOWQzN2I3OGZkXkEyXkFqcGdeQXVyMjIxMzMyMQ@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1957",
+            "descFilm": "Frantiska (Nina Jiránková), wife of farmer Podesva (Gustav Hilmar), searches in vain for her little son Metúdek on a winter night. Her rough and much older husband refuses to help her. Desperate young woman recalls the preceding e...",
+            "imdb": "tt0204121"
+        },
+        {
+            "id": 3,
+            "title": "Against the Ice",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMmIwYzA4YTAtYTMwYy00NzA3LWFmZGQtYWY3MTNlMGM3NDc5XkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2022",
+            "descFilm": "In 1909, two explorers fight to survive after they're left behind while on a Denmark expedition in ice-covered Greenland.",
+            "imdb": "tt13873302"
+        },
+        {
+            "id": 4,
+            "title": "Alien Terminator",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTc3NjY4YjItZWFjYi00MzQxLWE1M2UtZGU1OTBjZWZlZjkyXkEyXkFqcGdeQXVyMjI4NzM3NTM@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1995",
+            "descFilm": "Five miles below the surface of planet Earth, a new fear is born.",
+            "imdb": "tt0112320"
+        },
+        {
+            "id": 5,
+            "title": "Alien: Covenant - Advent",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMmQ4MjUyOTYtZWU4Mi00NmI5LTgzYjYtMGJjOTIxMDBhMThkXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2017",
+            "descFilm": "Advent is a sequel to Alien: Covenant in which Dav sends a transmission from the Covenant to Weyland-Yutani on Earth, elaborating upon the genetic experimentation he has been conducting on Planet 4.",
+            "imdb": "tt7309938"
+        },
+        {
+            "id": 6,
+            "title": "Almighty Thor",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTcwNjI5MTAzNF5BMl5BanBnXkFtZTcwNTcyOTIwNQ@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2011",
+            "descFilm": "When a demon god steals the Hammer of Invincibility, Thor strikes a mighty blow to get it back.",
+            "imdb": "tt1792794"
+        },
+        {
+            "id": 7,
+            "title": "Armagedon",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZDdhM2ZkYjYtMDQ0MC00NTJhLTlkYmYtMDczZTQwMjZhNzBkXkEyXkFqcGdeQXVyNDcwNDE0Nzk@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2015",
+            "descFilm": "N/A",
+            "imdb": "tt6010492"
+        },
+        {
+            "id": 8,
+            "title": "AVR Advent",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYTYxZTlmZmMtNmFkYS00Y2Q4LThjYzEtZGVmODYxOWU0ZmI2XkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2009",
+            "descFilm": "An entry into the 7th annual lightsaber choreography compeition.",
+            "imdb": "tt12106978"
+        },
+        {
+            "id": 9,
+            "title": "Batman",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZWQ0OTQ3ODctMmE0MS00ODc2LTg0ZTEtZWIwNTUxOGExZTQ4XkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1989",
+            "descFilm": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homic al Joker.",
+            "imdb": "tt0096895"
+        },
+        {
+            "id": 10,
+            "title": "Batman & Robin",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1997",
+            "descFilm": "Batman and Robin try to keep their relationship together even as they must stop Mr. Freeze and Poison Ivy from freezing Gotham City.",
+            "imdb": "tt0118688"
+        },
+        {
+            "id": 11,
+            "title": "Batman Begins",
+            "poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2005",
+            "descFilm": "After witnessing his parents' death, Bruce learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he must stop a secret society that intends to destroy the city.",
+            "imdb": "tt0372784"
+        },
+        {
+            "id": 12,
+            "title": "Batman Forever",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1995",
+            "descFilm": "Batman must battle former district attorney Harvey Dent, who is now Two-Face and Edward Nygma, The R dler with help from an amorous psychologist and a young circus acrobat who becomes his s ekick, Robin.",
+            "imdb": "tt0112462"
+        },
+        {
+            "id": 13,
+            "title": "Batman Returns",
+            "poster": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1992",
+            "descFilm": "While Batman deals with a deformed man calling himself the Penguin wreaking havoc across Gotham with the help of a cruel businessman, a female employee of the latter becomes the Catwoman with her own vendetta.",
+            "imdb": "tt0103776"
+        },
+        {
+            "id": 14,
+            "title": "Batman v Superman: Dawn of Justice",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2016",
+            "descFilm": "Batman is manipulated by Lex Luthor to fear Superman. Superman existence is meanwhile div ing the world and he is framed for murder during an international crisis. The heroes clash and force the neutral Wonder Woman to reemerge.",
+            "imdb": "tt2975590"
+        },
+        {
+            "id": 15,
+            "title": "Batman v Superman: Dawn of Justice (Ultimate Edition)",
+            "poster": "https://m.media-amazon.com/images/M/MV5BOTRlNWQwM2ItNjkyZC00MGI3LThkYjktZmE5N2FlMzcyNTIyXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2016",
+            "descFilm": "Batman is manipulated by Lex Luthor to fear Superman. Supermans existence is meanwhile div ing the world and he is framed for murder during an international crisis. The heroes clash and force the neutral Wonder Woman to reemerge.",
+            "imdb": "tt18689424"
+        },
+        {
+            "id": 16,
+            "title": "Batman: The Killing Joke",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTdjZTliODYtNWExMi00NjQ1LWIzN2MtN2Q5NTg5NTk3NzliL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2016",
+            "descFilm": "As Batman hunts for the escaped Joker, the Clown Prince of Crime attacks the Gordon family to prove a diabolical point mirroring his own fall into madness.",
+            "imdb": "tt4853102"
+        },
+        {
+            "id": 17,
+            "title": "Berserk: The Golden Age Arc III - The Advent",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjExMjJhYWYtNzZhMy00MjFmLWI2NmEtMGUzZmM4MWY5YzRmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2013",
+            "descFilm": "A has passed since Guts parted ways with Griffith. The Band of the Hawk is plotting a rescue mission to save Griffith who is confined to prison.",
+            "imdb": "tt2358913"
+        },
+        {
+            "id": 18,
+            "title": "Bill Burr Presents: Friends Who Kill",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjY3NDc2NDEtYjMzYy00OWViLWE0NWItNDRjNWY2MWYwYmMyXkEyXkFqcGdeQXVyMTM3NzM2MTgz._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2022",
+            "descFilm": "Bill Burr shares the stage with his favorite comedians.",
+            "imdb": "tt20723672"
+        },
+        {
+            "id": 19,
+            "title": "Browncoats: Independence War",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjQ0NzI5ODI2NF5BMl5BanBnXkFtZTgwNjYxOTU2NzE@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2015",
+            "descFilm": "A group of soldiers, on the last day of a War, set out to rescue a band of refugees who are trapped in a valley, before an enemy offensive wipes them out.",
+            "imdb": "tt5311054"
+        },
+        {
+            "id": 20,
+            "title": "Call of the Wild",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MzI5MzE2NF5BMl5BanBnXkFtZTgwNzE5Njc0MjE@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1935",
+            "descFilm": "During the Klondike Gold Rush, a traveler purchases a dog to lead the way toward the treasure, but recons ers his journey when he finds a jilted married woman.",
+            "imdb": "tt0026164"
+        },
+        {
+            "id": 21,
+            "title": "Capulina 'Speedy' González: 'El Ráp o'",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYmJjOTg3ODItMWM1My00ZWJlLWJmNTMtMWY1Y2I1OGI1MWE2XkEyXkFqcGdeQXVyMjI3NzYwODc@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1970",
+            "descFilm": "An inept Mexican courier, who works for a U.S. post office in a border town, consumes chili peppers to obtain super speed abilities.",
+            "imdb": "tt0321594"
+        },
+        {
+            "id": 22,
+            "title": "Cross of Iron",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNGQ1YjZkMTEtZjdhZS00NmNjLWE2ZmQtZmUwYzgzZjM5ZTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1977",
+            "descFilm": "German commander Hauptmann Stransky places a squad in extreme danger after Sergeant Rolf Steiner refuses to lie for him.",
+            "imdb": "tt0074695"
+        },
+        {
+            "id": 23,
+            "title": "Detective Knight: Independence",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYTAxYTliNjctNmQ3OC00NDA2LTkwOWUtNGNlNDhmMGE1Yjc5XkEyXkFqcGdeQXVyNzUwMDA5NDE@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2023",
+            "descFilm": "Detective James Knight's last-minute assignment to the Independence Day shift turns into a race against time to stop an unbalanced EMT worker who's posing as a cop.",
+            "imdb": "tt22394702"
+        },
+        {
+            "id": 24,
+            "title": "El ráp o de las 9.15",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNDA1MGQxYjctNTY4ZC00OGE4LTk5N2YtNDMxM2UzYTBhMDliXkEyXkFqcGdeQXVyMTM0NzY0ODYw._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1941",
+            "descFilm": "It is about the stories of the passengers of a non-stop train before a tragic acc ent. All the characters are portrayed one by one and the only thing they have in common is the journey they will make that night.",
+            "imdb": "tt0034137"
+        },
+        {
+            "id": 25,
+            "title": "Everything Is a Remix: Kill Bill",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNGFjNmNlMmUtZTY1Yy00MTM3LWJjMmMtYzA3N2MzNTUzZDhmXkEyXkFqcGdeQXVyMjY1MTQ5NTk@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2011",
+            "descFilm": "N/A",
+            "imdb": "tt3496980"
+        },
+        {
+            "id": 26,
+            "title": "F9: The Fast Saga",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2021",
+            "descFilm": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+            "imdb": "tt5433138"
+        },
+        {
+            "id": 27,
+            "title": "Fast & Furious",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYjQ1ZTMxNzgtZDcxOC00NWY5LTk3ZjAtYzRhMDhlNDZlOWEzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2009",
+            "descFilm": "Brian O'Conner, back working for the FBI in Los Angeles, teams up with Dominic Toretto to bring down a heroin importer by infiltrating his operation.",
+            "imdb": "tt1013752"
+        },
+        {
+            "id": 28,
+            "title": "Fast & Furious 6",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2013",
+            "descFilm": "Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries: Dominic unexpectedly gets s etracked with facing his presumed deceased girlfriend, Letty.",
+            "imdb": "tt1905041"
+        },
+        {
+            "id": 29,
+            "title": "Fast & Furious Presents: Hobbs & Shaw",
+            "poster": "https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2019",
+            "descFilm": "Lawman Luke Hobbs and outcast Deckard Shaw form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+            "imdb": "tt6806448"
+        },
+        {
+            "id": 30,
+            "title": "Fast Five",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2011",
+            "descFilm": "Dominic Toretto and his crew of street racers plan a massive heist to buy their freedom while in the sights of a powerful Brazilian drug lord and a dangerous federal agent.",
+            "imdb": "tt1596343"
+        },
+        {
+            "id": 31,
+            "title": "Fast Times at R gemont High",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYzBlZjE1MDctYjZmZC00ZTJmLWFkOWEtYjdmZDZkODBkZmI2XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1982",
+            "descFilm": "A group of Southern California high school students are enjoying their most important subjects: sex, drugs and rock n' roll.",
+            "imdb": "tt0083929"
+        },
+        {
+            "id": 32,
+            "title": "Fast X",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNzZmOTU1ZTEtYzVhNi00NzQxLWI5ZjAtNWNhNjEwY2E3YmZjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2023",
+            "descFilm": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+            "imdb": "tt5433140"
+        },
+        {
+            "id": 33,
+            "title": "Final Fantasy VII: Advent Children",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNTk4NjBhZTUtN2MwMy00MzIyLWFhN2ItMmUwYzQ4MWQxODM3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2005",
+            "descFilm": "An ex-mercenary is forced out of isolation when three mysterious men k nap and brainwash the city's children afflicted with the Geostigma disease.",
+            "imdb": "tt0385700"
+        },
+        {
+            "id": 34,
+            "title": "Final Fantasy VII: Advent Children Bonus Disc",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNTk4NjBhZTUtN2MwMy00MzIyLWFhN2ItMmUwYzQ4MWQxODM3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2006",
+            "descFilm": "A bonus DVD featuring interviews with the English cast of FF VII: AC.",
+            "imdb": "tt11416796"
+        },
+        {
+            "id": 35,
+            "title": "Ice Age",
+            "poster": "https://m.media-amazon.com/images/M/MV5BM2JmZGJkNzAtOWI0MC00ZmE5LWIwMjYtODU0OGUxNDg4ZDkwXkEyXkFqcGdeQXVyMTA5ODEyNTc5._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2002",
+            "descFilm": "The story revolves around sub-zero heroes: a woolly mammoth, a saber-toothed tiger, a sloth and a prehistoric combination of a squirrel and rat, known as Scrat.",
+            "imdb": "tt0268380"
+        },
+        {
+            "id": 36,
+            "title": "Ice Age: Collision Course",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTUwMTk2ODc1OV5BMl5BanBnXkFtZTgwMzU4MzgzOTE@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2016",
+            "descFilm": "When Scrat's acorn sends an astero to Earth, the Herd must find a way to stop the astero from hitting Earth with the help of a returning friend.",
+            "imdb": "tt3416828"
+        },
+        {
+            "id": 37,
+            "title": "Ice Age: Continental Drift",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NDM5MzY5Ml5BMl5BanBnXkFtZTcwNjExMDUwOA@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2012",
+            "descFilm": "Manny, Diego, and S embark upon another adventure after their continent is set adrift. Using an iceberg as a ship, they encounter sea creatures and battle pirates as they explore a new world.",
+            "imdb": "tt1667889"
+        },
+        {
+            "id": 38,
+            "title": "Ice Age: Dawn of the Dinosaurs",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTMzNDkzMTcyOV5BMl5BanBnXkFtZTcwNDIzMjM2MQ@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2009",
+            "descFilm": "When S 's attempt to adopt three dinosaur eggs gets him abducted by their real mother to an underground lost world, his friends attempt to rescue him.",
+            "imdb": "tt1080016"
+        },
+        {
+            "id": 39,
+            "title": "Ice Age: The Meltdown",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjAwODg3OTAxMl5BMl5BanBnXkFtZTcwMjg2NjYyMw@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2006",
+            "descFilm": "Manny, S and Diego discover that the ice age is coming to an end, and join everybody for a journey to higher ground. On the trip, they discover that Manny is not in fact the last of the woolly mammoths.",
+            "imdb": "tt0438097"
+        },
+        {
+            "id": 40,
+            "title": "Ice Princess",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTI1NjIzMzg5OF5BMl5BanBnXkFtZTcwMjI2ODcyMQ@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2005",
+            "descFilm": "With the help of her coach, her mom, and the boy who drives the Zamboni machine, nothing can stop Casey (Trachtenberg) from realizing her dream to be a champion figure skater.",
+            "imdb": "tt0396652"
+        },
+        {
+            "id": 41,
+            "title": "Independence Day",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMGQwNDNkMmItYWY1Yy00YTZmLWE5OTAtODU0MGZmMzQ1NDdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1996",
+            "descFilm": "The aliens are coming and their goal is to invade and destroy Earth. Fighting superior technology, mankind's best weapon is the will to survive.",
+            "imdb": "tt0116629"
+        },
+        {
+            "id": 42,
+            "title": "Independence Day",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMDFiMTE0NTktMTIxNS00NGQ0LWE3ZTItZGZmODhjYzgzZGE5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1983",
+            "descFilm": "Mary Ann Taylor of Mercury, Texas loves the comforts of her hometown, but feels unfulfilled by a life of pouring coffee and grilling hamburgers in her father's diner. Her real passion is photography, but pursuing her dream of beco...",
+            "imdb": "tt0085724"
+        },
+        {
+            "id": 43,
+            "title": "Independence Day: Resurgence",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjIyMTg5MTg4OV5BMl5BanBnXkFtZTgwMzkzMjY5NzE@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2016",
+            "descFilm": "Two decades after the first Independence Day invasion, Earth is faced with a new extra-Solar threat. But will mankind's new space defenses be enough?",
+            "imdb": "tt1628841"
+        },
+        {
+            "id": 44,
+            "title": "Independence Daysaster",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjU0OTI4NzIwOV5BMl5BanBnXkFtZTgwMTMxNjkyMjE@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2013",
+            "descFilm": "When Earth is attacked by a hostile alien force, a small town firefighter and a rogue SETI scientist team up to activate the only technology capable of defeating the invaders.",
+            "imdb": "tt2645670"
+        },
+        {
+            "id": 45,
+            "title": "Iron Man",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2008",
+            "descFilm": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+            "imdb": "tt0371746"
+        },
+        {
+            "id": 46,
+            "title": "Iron Man 2",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZGVkNDAyM2EtYzYxYy00ZWUxLTgwMjgtY2VmODE5OTk3N2M5XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2010",
+            "descFilm": "With the world now aware of his entity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.",
+            "imdb": "tt1228705"
+        },
+        {
+            "id": 47,
+            "title": "Iron Man 3",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2013",
+            "descFilm": "When Tony Stark's world is torn apart by a form able terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+            "imdb": "tt1300854"
+        },
+        {
+            "id": 48,
+            "title": "Iron Sky",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTM2MDg5MzgxNF5BMl5BanBnXkFtZTcwODUzNjMxOA@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2012",
+            "descFilm": "The Nazis set up a secret base on the dark s e of the moon in 1945 where they h e out and plan to return to power in 2018.",
+            "imdb": "tt1034314"
+        },
+        {
+            "id": 49,
+            "title": "Kill Bill: Origins",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMmMzNzQ3OGUtMmQzMi00NjY5LWJkNzQtMTZiNDgxODNiNWMyXkEyXkFqcGdeQXVyNjkyMTM0ODY@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2010",
+            "descFilm": "N/A",
+            "imdb": "tt5046230"
+        },
+        {
+            "id": 50,
+            "title": "Kill Bill: The Whole Bloody Affair",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYmFkNTc1MWYtYTVlNy00NmZmLTkzMjAtMWM0N2FmMWRkNWNhXkEyXkFqcGdeQXVyMTE5NDkxMA@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2006",
+            "descFilm": "The Br e must kill her ex-boss and lover Bill who betrayed her at her wedding rehearsal, shot her in the head and took away her unborn daughter. But first, she must make the other four members of the Deadly Viper Assassination Sq...",
+            "imdb": "tt6019206"
+        },
+        {
+            "id": 51,
+            "title": "Kill Bill: Vol. 1",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2003",
+            "descFilm": "After awakening from a four- coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+            "imdb": "tt0266697"
+        },
+        {
+            "id": 52,
+            "title": "Kill Bill: Vol. 2",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNmFiYmJmN2QtNWQwMi00MzliLThiOWMtZjQxNGRhZTQ1MjgyXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2004",
+            "descFilm": "The Br e continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle.",
+            "imdb": "tt0378194"
+        },
+        {
+            "id": 53,
+            "title": "La ley del más ráp o",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZjdiNWRkNTAtNjExYy00NTk3LTgzOWQtZmUyMjdjZTEyOTkwXkEyXkFqcGdeQXVyMTk3MzY2MjQ@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1959",
+            "descFilm": "N/A",
+            "imdb": "tt0276286"
+        },
+        {
+            "id": 54,
+            "title": "Lady Terminator",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTg5NTA1NzEtNWNiNy00ZTc4LWJhZTgtYmJkODZhYWI3NmQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1989",
+            "descFilm": "The spirit of an ancient evil queen posesses the body of a young anthropological student, who then goes on a murderous rampage.",
+            "imdb": "tt0095483"
+        },
+        {
+            "id": 55,
+            "title": "Martín Romero El Ráp o",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjQ0MzBlNTItMjc3Yy00MmNiLWI4YTUtNWZkZmYyNTQ0ZWEyXkEyXkFqcGdeQXVyNjc2ODQ1OTM@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1966",
+            "descFilm": "N/A",
+            "imdb": "tt0280923"
+        },
+        {
+            "id": 56,
+            "title": "Melancholy Advent",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNzZkNGViZGMtMzg1Ni00N2Q3LWI2YTktYTZjMDliYTE1OGEzXkEyXkFqcGdeQXVyNzc5MzQ1NTg@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2019",
+            "descFilm": "On Christmas day, a small toy is introduced to his new home. As his owner grows up, however, so does the bedroom.",
+            "imdb": "tt11551780"
+        },
+        {
+            "id": 57,
+            "title": "Mortal",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYWU1MTM4OTktZTU4OS00ZWNiLTk0ZTYtOGM4Y2M3NTVhOGJlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2020",
+            "descFilm": "Fantasy adventure origin story about a young man discovering he has god-like powers based on ancient Norse mythology.",
+            "imdb": "tt5715066"
+        },
+        {
+            "id": 58,
+            "title": "Mortal Engines",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNzY1MDA2OTQ0N15BMl5BanBnXkFtZTgwMTkzNjU2NTM@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2018",
+            "descFilm": "In a post-apocalyptic world where cities r e on wheels and consume each other to survive, two people meet in London and try to stop a conspiracy.",
+            "imdb": "tt1571234"
+        },
+        {
+            "id": 59,
+            "title": "Mortal Kombat",
+            "poster": "https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2021",
+            "descFilm": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
+            "imdb": "tt0293429"
+        },
+        {
+            "id": 60,
+            "title": "Mortal Kombat",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNjY5NTEzZGItMGY3My00NzE4LThkYTUtYjJkNzk3MDBiMWE3XkEyXkFqcGdeQXVyNzg5MDE1MDk@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1995",
+            "descFilm": "Three unknowing martial artists are summoned to a mysterious island to compete in a tournament whose outcome will dec e the fate of the world.",
+            "imdb": "tt0113855"
+        },
+        {
+            "id": 61,
+            "title": "Mortal Kombat Legends: Battle of the Realms",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMDU0ZDkwMzktZDA0MC00MTc5LWE1MzEtYzg2MTU5ZWE4MTU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2021",
+            "descFilm": "The Earthrealm heroes must journey to Outworld and fight for the survival of their homeland, invaded by the forces of evil warlord Shao Kahn, in the tournament to end all tournaments: the final Mortal Kombat.",
+            "imdb": "tt14901058"
+        },
+        {
+            "id": 62,
+            "title": "Mortal Kombat Legends: Scorpion's Revenge",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNzY3YTUwYTQtNjkwNy00OTAyLWE0OWEtYmE3MGIyOWZkODY1XkEyXkFqcGdeQXVyMjkyNzYwMTc@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2020",
+            "descFilm": "Hanzo Hasashi loses his family during an attack by a rival clan the Lin Kuei. He is given the chance to compete in an inter-dimensional tournament to save his loved ones while other fighters try to save the Earth realm from annihi...",
+            "imdb": "tt9580138"
+        },
+        {
+            "id": 63,
+            "title": "Mortal Kombat: Annihilation",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYjdmZTU3MWMtZTU4ZC00NjYzLTk1NzAtODc2ZDY0ZWNhYWEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1997",
+            "descFilm": "A group of martial-arts warriors has only six days to save the Earth from an extra-dimensional invasion.",
+            "imdb": "tt0119707"
+        },
+        {
+            "id": 64,
+            "title": "Mortal Thoughts",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNjhlOTI2NTAtYWJmZC00ZTE5LThhNzYtNzBlMDY3ZjYyYmUwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1991",
+            "descFilm": "Two detectives interrogate a hairdresser on two homic es she may or may not have been involved in.",
+            "imdb": "tt0102469"
+        },
+        {
+            "id": 65,
+            "title": "Mortal World",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZGQzMWY0NGYtMGE4MS00YmExLTkyOWItNzQxOWUzODkxNzAyXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2018",
+            "descFilm": "Mermer Family lives a double life working at their family owned restaurant while being undercover assassins for an international organization. After their secret is revealed, this dysfunctional family needs to work together to sur...",
+            "imdb": "tt7748244"
+        },
+        {
+            "id": 66,
+            "title": "Ninja Terminator",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMGZiNTczNWItOTdmYy00OTFjLWIwOWUtMmE3Y2QyNzBmZDJkXkEyXkFqcGdeQXVyNzg3NjQyOQ@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1986",
+            "descFilm": "Three martial-arts students search for the Golden Ninja Warrior, a statue reputed to have magic powers.",
+            "imdb": "tt0199849"
+        },
+        {
+            "id": 67,
+            "title": "Pokémon 3 the Movie: Spell of the Unown",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTk0NzM3MDY1OV5BMl5BanBnXkFtZTYwNTkwODc5._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2000",
+            "descFilm": "In the town of Greenfield, a young, lonely girl's dreams and wishes are brought into reality by a collective of reality-warping Pokémon.",
+            "imdb": "tt0235679"
+        },
+        {
+            "id": 68,
+            "title": "Pokemon 4Ever: Celebi - Voice of the Forest",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZDZiYjc3MWYtODE5Mi00MDM5LWFkZTAtNjAzZmUxMzc4ZGQxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2001",
+            "descFilm": "Ash must stop a hunter who forces the mythical Pokémon Celebi to help him destroy a forest.",
+            "imdb": "tt0287635"
+        },
+        {
+            "id": 69,
+            "title": "Pokémon Heroes",
+            "poster": "https://m.media-amazon.com/images/M/MV5BODg3OTljOTktNmI3Ny00MDczLTk2NGItNWRiOTE2YjQ1OWI0XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2002",
+            "descFilm": "Two thieves take control of an ancient weapon designed to defend the canal city of Altomare.",
+            "imdb": "tt0347791"
+        },
+        {
+            "id": 70,
+            "title": "Pokémon the Movie 2000",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNzE1NjBiODAtNDVhNS00ZTI1LTg4ZjUtZTk3OWVhODljMjNjXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1999",
+            "descFilm": "Ash Ketchum must gather the three spheres of fire, ice and lightning in order to restore balance to the Orange Islands.",
+            "imdb": "tt0210234"
+        },
+        {
+            "id": 71,
+            "title": "Pokémon the Movie: I Choose You!",
+            "poster": "https://m.media-amazon.com/images/M/MV5BM2U3NmI4YzItYmRiNi00M2UxLWExNTYtNDZkZmJlNzlmM2M3XkEyXkFqcGdeQXVyNDkzMjE0NDE@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2017",
+            "descFilm": "Ash Ketchum from Pallet Town is 10 old today. This means he is now old enough to become a Pokémon Trainer. Ash dreams big about the adventures he will experience after receiving his first Pokémon from Professor Oak.",
+            "imdb": "tt6595896"
+        },
+        {
+            "id": 72,
+            "title": "Pokémon: Detective Pikachu",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMDkxNzRmNDYtMDY0OS00N2JhLTkzZWUtMWE3MzZkNDk1MmJiXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2019",
+            "descFilm": "In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective.",
+            "imdb": "tt5884052"
+        },
+        {
+            "id": 73,
+            "title": "Pokémon: Jirachi - Wish Maker",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNmU4NmRmNmEtYjQ2YS00ZmNiLTlkZjgtMmY5NDQ3Mzk0ODdiXkEyXkFqcGdeQXVyOTA1ODU0Mzc@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2003",
+            "descFilm": "A magician attempts to use the power of the Millennium Comet to awaken the legendary Pokémon Groudon.",
+            "imdb": "tt0420076"
+        },
+        {
+            "id": 74,
+            "title": "Pokémon: Lucario and the Mystery of Mew",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTUxOTcwNjAwMl5BMl5BanBnXkFtZTgwMjc2MzQ2NjE@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2005",
+            "descFilm": "When Pikachu is taken to the Tree of Beginnings by the playful Mew, Ash Ketchum and friends are gu ed to the tree by Lucario, a time-displaced Pokémon who seeks answers regarding the betrayal of his master.",
+            "imdb": "tt0875609"
+        },
+        {
+            "id": 75,
+            "title": "Pokémon: Mewtwo Strikes Back - Evolution",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYTlmMjc0YzgtMDlmYy00NGY4LTgyOTAtODI2MzllNWI1ODBkXkEyXkFqcGdeQXVyMTMxNDQyNjM5._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2019",
+            "descFilm": "After a scientific experiment leads to the creation of a clone of Mewtwo, he sets out to destroy the world. Ash and his friends then dec e to thwart Mewtwo's evil plans.",
+            "imdb": "tt8856470"
+        },
+        {
+            "id": 76,
+            "title": "Pokémon: The First Movie - Mewtwo Strikes Back",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZGM3MjQ3NTQtNzRiZi00MDUzLWFjYjEtZWJjMjUwYzExYjRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1998",
+            "descFilm": "Scientists genetically create a new Pokémon, Mewtwo, but the results are horrific and disastrous.",
+            "imdb": "tt0190641"
+        },
+        {
+            "id": 77,
+            "title": "Roman Rap o",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMmIxZjM2YjItN2RmOS00MWE4LWI3ZDQtZmRjOTkwM2Q2NjM2XkEyXkFqcGdeQXVyNjg4NTY3OTg@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1983",
+            "descFilm": "THIS FAMILY SAGA THAT SPANS TWO DECADES, FROM THE JAPANESE OCCUPATION TO THE 1950s, IS ADAPTED FOR THE BIG SCREEN FROM THE RADIO SERIAL THAT WENT ON AIR IN THE 1950s.",
+            "imdb": "tt0434311"
+        },
+        {
+            "id": 78,
+            "title": "Sp er-Man",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2002",
+            "descFilm": "After being bitten by a genetically-modified sp er, a shy teenager gains sp er-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+            "imdb": "tt0145487"
+        },
+        {
+            "id": 79,
+            "title": "Sp er-Man 2",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2004",
+            "descFilm": "Peter Parker is beset with troubles in his failing personal life as he battles a former brilliant scientist named Otto Octavius.",
+            "imdb": "tt0316654"
+        },
+        {
+            "id": 80,
+            "title": "Sp er-Man 3",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2007",
+            "descFilm": "A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains, temptations, and revenge.",
+            "imdb": "tt0413300"
+        },
+        {
+            "id": 81,
+            "title": "Sp er-Man: Across the Sp er-Verse",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2023",
+            "descFilm": "Miles Morales catapults across the multiverse, where he encounters a team of Sp er-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a ...",
+            "imdb": "tt9362722"
+        },
+        {
+            "id": 82,
+            "title": "Sp er-Man: Far from Home",
+            "poster": "https://m.media-amazon.com/images/M/MV5BODA5MTY0OWUtNjdlOC00NDI5LWE3NjYtNDM4MDI2MzE4OWUxXkEyXkFqcGdeQXVyOTAzODkzMjI@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2019",
+            "descFilm": "Following the events of Avengers: Endgame (2019), Sp er-Man must step up to take on new threats in a world that has changed forever.",
+            "imdb": "tt6320628"
+        },
+        {
+            "id": 83,
+            "title": "Sp er-Man: Homecoming",
+            "poster": "https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2017",
+            "descFilm": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Sp er-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+            "imdb": "tt2250912"
+        },
+        {
+            "id": 84,
+            "title": "Sp er-Man: Into the Sp er-Verse",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2018",
+            "descFilm": "Teen Miles Morales becomes the Sp er-Man of his universe and must join with five sp er-powered indiv uals from other dimensions to stop a threat for all realities.",
+            "imdb": "tt4633694"
+        },
+        {
+            "id": 85,
+            "title": "Sp er-Man: No Way Home",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2021",
+            "descFilm": "With Sp er-Man's entity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Sp er-Man.",
+            "imdb": "tt10872600"
+        },
+        {
+            "id": 86,
+            "title": "Stuart Little 3: Call of the Wild",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMGY3Y2QxMWQtZjI4ZC00M2EyLTk0NjMtZDNjNmEyMTkzMDlmXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2005",
+            "descFilm": "The Little family spend their vacation near Lake Garland. Meanwhile, in the forest, a beast is threatening the animals to give her food every night.",
+            "imdb": "tt0472602"
+        },
+        {
+            "id": 87,
+            "title": "Superman",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1978",
+            "descFilm": "An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.",
+            "imdb": "tt0078346"
+        },
+        {
+            "id": 88,
+            "title": "Superman II",
+            "poster": "https://m.media-amazon.com/images/M/MV5BODk2NjgzNTEtYzZhZC00ZTBkLTllMGQtMmMxMzU1NDRkM2RlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1980",
+            "descFilm": "Superman agrees to sacrifice his powers to start a relationship with Lois Lane, unaware that three Kryptonian criminals he inadvertently released are conquering Earth.",
+            "imdb": "tt0081573"
+        },
+        {
+            "id": 89,
+            "title": "Superman III",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMzI3ZDllMTctNmI2Mi00OGQ4LTk2ZTQtYTJhMjA5ZGI2YmRkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1983",
+            "descFilm": "Synthetic kryptonite laced with tar splits Superman in two: good Clark Kent and bad Man of Steel.",
+            "imdb": "tt0086393"
+        },
+        {
+            "id": 90,
+            "title": "Superman IV: The Quest for Peace",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMmIwZWY1YTYtNDlhOS00NDRmLWI4MzItNjk2NDc1N2NhYzNlXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1987",
+            "descFilm": "The Man of Steel crusades for nuclear disarmament and meets Lex Luthor's latest creation, Nuclear Man.",
+            "imdb": "tt0094074"
+        },
+        {
+            "id": 91,
+            "title": "Superman Returns",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNDUzZGRhNzktYTZkMC00YWFiLTljMDEtMTk2OWJhYzAyYmY2XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2006",
+            "descFilm": "Superman returns to Earth after spending five s in space examining his homeworld Krypton. But he finds things have changed while he was gone, and he must once again prove himself important to the world.",
+            "imdb": "tt0348150"
+        },
+        {
+            "id": 92,
+            "title": "Superman: Doomsday",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMmJhN2RmMTUtMDMzMy00YTQ4LWEyZDMtOGM1NWVmMDE3NTBjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2007",
+            "descFilm": "When LexCorps acc entally unleash a murderous creature, Doomsday, Superman meets his greatest challenge as a champion. Based on the The Death of Superman storyline that appeared in DC Comics' publications in the 1990s.",
+            "imdb": "tt0934706"
+        },
+        {
+            "id": 93,
+            "title": "Superman/Batman: Apocalypse",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjk3ODhmNjgtZjllOC00ZWZjLTkwYzQtNzc1Y2ZhMjY2ODE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2010",
+            "descFilm": "Batman discovers a mysterious teen-aged girl with super-human powers and a connection to Superman. When the girl comes to the attention of Darkse , the evil overlord of Apokolips, events take a dec edly dangerous turn.",
+            "imdb": "tt1673430"
+        },
+        {
+            "id": 94,
+            "title": "Superman/Batman: Public Enemies",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZDc5NTFiMzgtZWJiOS00N2M1LWJmOGYtZmNjMzFhMzcxZjRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2009",
+            "descFilm": "When Lex Luthor gets elected US Pres ent, he uses the threat of an oncoming kryptonite meteor striking Earth as a rationale to frame Superman.",
+            "imdb": "tt1398941"
+        },
+        {
+            "id": 95,
+            "title": "Team Thor",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZmEyODRkYmQtMjM3Yi00ZTkxLWI0NWEtOTJhMzBjNWY5MjJjXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2016",
+            "descFilm": "The story of what the hammer-wielding Nordic god Thor was up to while the rest of the Avengers were battling each other in Captain America: Civil War. He moves into a flat with office worker Darryl Jacobson in Australia.",
+            "imdb": "tt6016776"
+        },
+        {
+            "id": 96,
+            "title": "Team Thor: Part 2",
+            "poster": "https://m.media-amazon.com/images/M/MV5BODczODMwOTgtODhkOC00YjFiLWIzYmUtZTI3NThhZDE1NDhkXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2017",
+            "descFilm": "Thor enjoys some time away from battle.",
+            "imdb": "tt6599818"
+        },
+        {
+            "id": 97,
+            "title": "Terminator 2: Judgment Day",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "1991",
+            "descFilm": "A cyborg, entical to the one who failed to kill Sarah Connor, must now protect her ten old son John from an even more advanced and powerful cyborg.",
+            "imdb": "tt0103064"
+        },
+        {
+            "id": 98,
+            "title": "Terminator 3: Rise of the Machines",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTk5NzM1ODgyN15BMl5BanBnXkFtZTcwMzA5MjAzMw@@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2003",
+            "descFilm": "A machine from a post-apocalyptic future travels back in time to protect a man and a woman from an advanced robotic assassin to ensure they both survive a nuclear attack.",
+            "imdb": "tt0181852"
+        },
+        {
+            "id": 99,
+            "title": "Terminator Genisys",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1_SX300.jpg",
+            "type": "movie",
+            "year": "2015",
+            "descFilm": "When John Connor, leader of the human resistance, sends Sgt. Kyle Reese back to 1984 to protect Sarah Connor and safeguard the future, an unexpected turn of events creates a fractured timeline.",
+            "imdb": "tt1340138"
+        }
+    ]
